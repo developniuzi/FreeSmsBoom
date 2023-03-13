@@ -1,7 +1,7 @@
 # FreeSmsBoom(免费商用,云任务,带财务)
 简介：免费开源的可商用短信轰炸程序,带app端,h5端和后台网页管理端
 
-##项目正在筹备期,后端已开发完成,正在开发用户端,预计2023年3月底发布内测,代码将在TG群组公布内测,欢迎加入[FreeSmsBoom开源交流群](https://t.me/+NLpnV38lKy4wNTBl)
+##项目正在筹备期,后端已开发完成,正在开发用户端,预计2023年3月底发布内测,代码将在TG群组公布内测,欢迎加入[FreeSmsBoom开源交流群](https://t.me/freesmsboom)
 
 
 ## 产品三大特征
@@ -112,4 +112,4 @@
 > 项目筹备期,欢迎有短信资源接口的大佬合作
 
 ## Telegram Channel (TG群组)
-[FreeSmsBoom开源交流群](https://t.me/+NLpnV38lKy4wNTBl)
+[FreeSmsBoom开源交流群](https://t.me/freesmsboom)
