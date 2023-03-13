@@ -98,6 +98,7 @@
    1. 管理端采用uniapp创建,请参考https://uniapp.dcloud.net.cn/quickstart-hx.html
    
    2. 修改API接口  
+   ```
     `/common/config.js`中修改`base_url`
    ```
    3.运行,请参考uniapp https://uniapp.dcloud.net.cn/tutorial/run/run-app.html#%E8%BF%90%E8%A1%8C%E5%85%A5%E5%8F%A3
