@@ -57,7 +57,6 @@
 2. 后端运行  
 
    1. 在确保LNMP环境安装完成后,在linux的数据目录如`www` or `home`里放入`Server`文件夹
-   ![](https://cdn.jsdelivr.net/gh/AdminWhaleFall/SMSBoom@master/img/e.g.1.png)
    
    2. 执行以下命令
    ```shell
